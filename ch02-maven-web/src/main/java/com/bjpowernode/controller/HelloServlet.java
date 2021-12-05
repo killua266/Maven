@@ -13,7 +13,8 @@ public class HelloServlet {
         System.out.println("65135dA");
         System.out.println("65135aSD1");
         System.out.println("65135aSD1sxAS");
-
+        
+        System.out.println("pullTest");
     }
 
 }
