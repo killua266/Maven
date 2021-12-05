@@ -8,6 +8,8 @@ package com.bjpowernode.controller;
 public class HelloServlet {
     public static void main(String[] args) {
         System.out.println("6513");
+        System.out.println("65136+984");
+        System.out.println("651351");
     }
 
 }
